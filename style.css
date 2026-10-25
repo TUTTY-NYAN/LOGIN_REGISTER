@@ -72,3 +72,19 @@ h2{
     color: #fff;
     font-size: 1.2em;
 }
+
+.remember-me {
+    margin: -15px 0 15px;
+    color: #fff;
+}
+
+.remember-me label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+}
+
+.remember-me input {
+    accent-color: #fff;
+}
